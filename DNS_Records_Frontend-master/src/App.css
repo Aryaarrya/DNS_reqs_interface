@@ -1,0 +1,57 @@
+.heading{
+  background-color: #2d545e;
+}
+/* Pragya and Tarun*/
+.header{
+  margin: 0 auto 0 auto;
+  margin-top: 100px;
+  width: 100%;  
+}
+.desc{
+  width: 80%;
+  margin: 50px auto 0 auto;
+  padding: 5px 5px 5px 50px;
+  background-color: grey;
+}
+
+.Jumbo{
+  height:200px;
+  border-color: black;
+  padding: 50px 10px 10px 20px;
+  margin:auto auto auto auto;
+  background-color: antiquewhite;
+}
+.inputs{
+  margin: 0 auto 0 auto;
+}
+.line{
+  width: 80%;
+  margin: 0 auto 0 auto;
+}
+.heading{
+  width: 80%;
+  margin:40px auto 40px auto;
+  padding: 40px;
+  font-size: 40px;
+  color : white;
+}
+.part1{
+  margin:20px;
+  color: #2d545e;
+  float:left;
+}
+.part2{
+  margin:20px;
+  color: #2d545e;
+  float: right;
+}
+.Check{
+  color: #2d545e;
+}
+.dropdown{
+  
+}
+.Submit{
+  background-color: #2d545e;
+}
+

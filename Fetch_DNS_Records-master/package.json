@@ -1,0 +1,21 @@
+{
+  "name": "dnsproject",
+  "version": "1.0.0",
+  "description": "Project for CSP334",
+  "main": "app.js",
+  "scripts": {
+    "test": "nodemon app.js --ignore client"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "install": "^0.13.0",
+    "node-dig-dns": "^0.2.10",
+    "to": "^0.2.9"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
